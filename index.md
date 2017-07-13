@@ -1,6 +1,6 @@
 ---
+title: Kaitlyn's Portfolio
 layout: default
-title: Kaitlyn Portfolio
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
