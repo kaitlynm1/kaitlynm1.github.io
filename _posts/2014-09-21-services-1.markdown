@@ -5,7 +5,7 @@ category: Projects
 title: Virtual Reality:<br>God Of Steam
 description: |
 ---
-Title: God of Steam
+<br>Title: God of Steam
 Platforms: HTC Vive and Oculus Rift (PC)
 Engine: Unreal Engine 4
 Language: Blueprints/C++
