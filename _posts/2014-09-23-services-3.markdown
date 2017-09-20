@@ -2,7 +2,13 @@
 layout: default
 img: phones.png
 category: Projects
-title: Lorum Ipsum: <br>Lorum Ipsum
+title: Flight of the Drones: <br>
 description: |
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Title: Flight of the Drones
+<br>Platforms: PC
+<br>Engine: Unity
+<br>Language: C#
+<br>Game Description: Local Multiplayer Drone game where players must keep the ball above the ground, meaning the last player to touch the ball before it hits the ground gets the points acquired for how many ball passes between players have occurred. 
+<br>Team: 4 people including myself (2 programmers, 1 designer and 1 artist).
+<br>Timeline: Developed over 6 weeks time, October-November 2016.
