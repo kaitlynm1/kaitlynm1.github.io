@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Projects
-title: Flight of the Drones: <br>
+title: Flight of the Drones:<br>
 description: |
 ---
 Title: Flight of the Drones
