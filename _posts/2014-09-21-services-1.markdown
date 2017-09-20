@@ -13,9 +13,3 @@ Title: God of Steam
 <br>Team: 6 people including myself (2 programmers, 2 designers and 2 artists).
 <br>Timeline: Currently in second month of development, will continue till the Gold milestone (November).
 <br>Game Development Twitter: @GodOfSteamVR
-
-<br>Other VR/AR experience:
-<br> - VR hackathon (run by SydneyVR group) - developed Chesster over 3 days in Unity/C#. Game where you play as the chess pieces, your telelportation abilities to traverse the board depending on which piece you are and your aim is to get to the end of the level without colliding with other chess pieces. 
-<br> - Body IK - Played with developing body IK with UE4/Blueprints/C++ to follow the hands and head movements in VR as a small curiousity experiment. 
-<br> - Physics-based Carnival games - Played with the UE4 VR Template to create small carnival games to learn more about VR development. 
-<br> - Vuforia AR - Used Vuforia AR tool in Unity/C# to experiment with simple physics based games when projecting onto targets (e.g. ball maze).
