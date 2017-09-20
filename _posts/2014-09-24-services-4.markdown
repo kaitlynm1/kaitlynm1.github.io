@@ -2,14 +2,9 @@
 layout: default
 img: ipad.png
 category: Projects
-title: Virtual Reality:<br>
+title: Game Jams:<br>
 description: |
 ---
-Title: God of Steam
-<br>Platforms: HTC Vive and Oculus Rift (PC)
-<br>Engine: Unreal Engine 4
-<br>Language: Blueprints/C++
-<br>Game Description: VR God Game where you must raise a village to take down the enemy god's village at the other end of the world (represented as a taletop experience in front of you).
-<br>Team: 6 people including myself (2 programmers, 2 designers and 2 artists).
-<br>Timeline: Currently in second month of development, will continue till the Gold milestone (November).
-<br>Game Development Twitter: @GodOfSteamVR
+- Chesster - Talked about above, VR game in Unity/C# where the player takes on the abilities of differenct chess pieces to traverse a level. <br>
+- Mr Blobby goes for a Bounce - Following the theme of 'Physics' with the rules of using only UE4/Blueprints/C++, developed a game in a team of 7, our game followed 2 blobs connected via an elastic escaping from their science beaker (single-player but could switch between blobs for tactical reasons, 3D jumping puzzle). <br>
+- True Crime Spelling Romance - Following the theme of our name (randomly generated) and the rules of only using Unity/C#, developed a game in a team of 4, our game was a 2D typing challenge game. The player takes on a dyslexic man who is writing to his true love to confess his crimes, however what the player wants to type, gets all jumbled, thus they must attempt to get their point across without mistakes based on their confidence in their typing accuracy ability. 
