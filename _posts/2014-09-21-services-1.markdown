@@ -5,10 +5,10 @@ category: Projects
 title: Virtual Reality:<br>God Of Steam
 description: |
 ---
-<br>Title: God of Steam
-Platforms: HTC Vive and Oculus Rift (PC)
-Engine: Unreal Engine 4
-Language: Blueprints/C++
-Game Description: VR God Game where you must raise a village to take down the enemy god's village at the other end of the world (represented as a taletop experience in front of you).
-Team: 6 people including myself (2 programmers, 2 designers and 2 artists)
+Title: God of Steam
+<br>Platforms: HTC Vive and Oculus Rift (PC)
+<br>Engine: Unreal Engine 4
+<br>Language: Blueprints/C++
+<br>Game Description: VR God Game where you must raise a village to take down the enemy god's village at the other end of the world (represented as a taletop experience in front of you).
+<br>Team: 6 people including myself (2 programmers, 2 designers and 2 artists)
 Timeline: Currently in second month of development, will continue till the Gold milestone (November)
