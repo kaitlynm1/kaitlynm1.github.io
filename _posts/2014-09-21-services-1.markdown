@@ -12,3 +12,4 @@ Title: God of Steam
 <br>Game Description: VR God Game where you must raise a village to take down the enemy god's village at the other end of the world (represented as a taletop experience in front of you).
 <br>Team: 6 people including myself (2 programmers, 2 designers and 2 artists).
 <br>Timeline: Currently in second month of development, will continue till the Gold milestone (November).
+<br>Game Development Twitter: https://twitter.com/GodOfSteamVR
