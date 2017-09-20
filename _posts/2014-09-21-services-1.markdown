@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Projects
-title: Virtual Reality:
+title: Virtual Reality: <br>
 description: |
 ---
 Title: God of Steam
