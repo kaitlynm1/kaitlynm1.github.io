@@ -2,11 +2,7 @@
 layout: default
 img: ipad.png
 category: Projects
-<<<<<<< HEAD
-title: Virtual Reality: <br>
-=======
-title: Virtual Reality:<br>God Of Steam
->>>>>>> parent of b3aef9c... Fixed missing breaks and took at double writing of the title
+title: Virtual Reality:<br>
 description: |
 ---
 Title: God of Steam
@@ -18,7 +14,3 @@ Title: God of Steam
 <br>Team: 6 people including myself (2 programmers, 2 designers and 2 artists).
 <br>Timeline: Currently in second month of development, will continue till the Gold milestone (November).
 <br>Game Development Twitter: @GodOfSteamVR
-=======
-<br>Team: 6 people including myself (2 programmers, 2 designers and 2 artists)
-Timeline: Currently in second month of development, will continue till the Gold milestone (November)
->>>>>>> parent of b3aef9c... Fixed missing breaks and took at double writing of the title
