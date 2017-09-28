@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Projects
-title: Game Jams & other UE4 projects:<br>
+title: Game Jams & other UE4/Unity projects:<br>
 description: |
 ---
 - Chesster - Talked about above, VR game in Unity/C# where the player takes on the abilities of differenct chess pieces to traverse a level. <br>
