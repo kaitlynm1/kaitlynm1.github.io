@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: prison.png
 category: Projects
 title: Other C++/C# work:<br>
 description: |
