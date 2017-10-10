@@ -1,6 +1,6 @@
 ---
 layout: default
-img: blob.png
+img: phones.png
 category: Projects
 title: Flight of the Drones:<br>
 description: |
