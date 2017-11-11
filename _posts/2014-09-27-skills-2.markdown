@@ -1,7 +1,7 @@
 ---
 layout: default
 img: photoshop.png
-category: Projects
+category: Skills
 title: Other External Programs Experience:<br>
 description: |
 ---
