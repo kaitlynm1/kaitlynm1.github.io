@@ -11,5 +11,6 @@ Title: God of Steam
 <br>Language: Blueprints/C++
 <br>Game Description: VR God Game where you must raise a village to take down the enemy god's village.
 <br>Team: 5 people including myself (2 programmers, 2 artists and 1 designer).
-<br>Timeline: Currently in second month of development, will continue till the Gold milestone (November).
+<br>Timeline: 2-3 months.
 <br>Game Development Twitter: @GodOfSteamVR
+<br>Contribution: AI functionality and behaviour (Roles of villagers and their tasks, resource handling & combat), Resource Management, Tower Defence behaviour, Time and Wave Management. 
