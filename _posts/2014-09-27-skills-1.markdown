@@ -5,7 +5,7 @@ category: Skills
 title: Skills:<br>
 description: |
 ---
-<br>Languages:
+Languages:
 <br> - C++
 <br> - C#
 <br>
