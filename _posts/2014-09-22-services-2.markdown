@@ -1,11 +1,16 @@
 ---
 layout: default
-img: bodyik.png
+img: BarbieFashionCloset.jpg
 category: Projects
-title: More VR/AR experience:<br>
+title: Barbie Fashion Closet:<br>
 description: |
 ---
- - VR hackathon (run by SydneyVR group) - Unity/C# game where the player takes on the abilities of different chess pieces to traverse a level. <br>
- - Body IK - Played with developing body IK with UE4/Blueprints/C++ to follow the hands and head movements in VR as a small curiousity experiment.  <br>
- - Physics-based Carnival games - Played with the UE4 VR Template to create small carnival games to learn more about VR development.  <br>
- - Vuforia AR - Used Vuforia AR tool in Unity/C# to experiment with projecting previous Unity projects onto images (2016). <br>
+Title: Barbie Fashion Closet
+<br>Platforms: iOS, Google Play (Android)
+<br>Engine: Unity Engine
+<br>Language: C#
+<br>Game Description: mobile dress up game based around Mattel's Barbie dolls, with outfit challenges, red carpet challenges and scrapbook features for more gameified elements. 
+<br> Google Play link: https://play.google.com/store/apps/details?id=com.mattel.barbiesparkleblastkids&hl=en_AU
+<br> iOS link: https://apps.apple.com/us/app/barbie-fashion-closet/id1246820069
+<br> Gameplay video: https://www.youtube.com/watch?v=v0Bw7X6YlIs&ab_channel=Barbie
+<br>Contribution: co-lead programming beginning to end 2x years of project life, Helped create systems for new features from inception to release (Red Carpet Challenges, Outfit Challenges, Scrapbook, new FTUE), Ads SDK Implementation, Debug and Importer tools to speed up implementation and testing time, Milestone management system

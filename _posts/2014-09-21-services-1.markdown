@@ -1,8 +1,8 @@
 ---
 layout: default
-img: godofsteam.png
+img: LearnWithGabby.jpg
 category: Projects
-title: Gabby's Dollhouse & Barbie Fashion Closet:<br>
+title: Gabby's Dollhouse<br>
 description: |
 ---
 Title: Gabby's Dollhouse
@@ -12,14 +12,4 @@ Title: Gabby's Dollhouse
 <br>Game Description: mobile game based on Netflix show Gabby's Dollhouse and subsequent toys. Creates virtual dollhouse with minigames and interactable elements matching the show and toys. 
 <br>Gameplay video: 
 <br> App store links: https://gabbysdollhouse.spinmaster.com/en_us 
-<br>Contribution: Lead programmer for last 2 years of project, optimization w/ addressables etc., Debug and Importer tools to speed up implementation and testing time, new FTUE system, Milestone management system, rebuilding some existing features to fix bugs / optimize for future proofing (QR code scanning for IRL toys, implementing toy rewards, theatre mode that plays clips from TV show), etc.
-
-Title: Barbie Fashion Closet
-<br>Platforms: iOS, Google Play (Android)
-<br>Engine: Unity Engine
-<br>Language: C#
-<br>Game Description: mobile dress up game based around Mattel's Barbie dolls, with outfit challenges, red carpet challenges and scrapbook features for more gameified elements. 
-<br> Google Play link: https://play.google.com/store/apps/details?id=com.mattel.barbiesparkleblastkids&hl=en_AU
-<br> iOS link: https://apps.apple.com/us/app/barbie-fashion-closet/id1246820069
-<br> Gameplay video: https://www.youtube.com/watch?v=v0Bw7X6YlIs&ab_channel=Barbie
-<br>Contribution: programming beginning to end 2x years of project life, Helped create systems for new features from inception to release (Red Carpet Challenges, Outfit Challenges, Scrapbook, new FTUE), Ads SDK Implementation, Debug and Importer tools to speed up implementation and testing time, Milestone management system
+<br>Contribution: Lead programmer for last 2 years of project, optimization w/ addressables etc., Debug and Importer tools to speed up implementation and testing time, new FTUE system, Milestone management system, rebuilding some existing features to fix bugs / optimize for future proofing (QR code scanning for IRL toys, implementing toy rewards, theatre mode that plays clips from TV show), etc
