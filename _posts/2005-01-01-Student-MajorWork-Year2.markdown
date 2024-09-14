@@ -1,6 +1,6 @@
 ---
 layout: default
-img: GodOfSteam.png
+img: MajorWorkGodOfSteam.png
 category: Student Projects
 title: Student Major Work Year 2 - God of Steam<br>
 description: |
