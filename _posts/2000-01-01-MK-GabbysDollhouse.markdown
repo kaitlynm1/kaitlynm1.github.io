@@ -1,6 +1,6 @@
 ---
 layout: default
-img: GabbysDollhouse.jpg
+img: GabbysDollhouse.png
 category: Projects
 title: Gabby's Dollhouse<br>
 description: |
