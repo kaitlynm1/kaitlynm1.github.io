@@ -2,7 +2,7 @@
 layout: default
 img: GodOfSteam.png
 category: Student Projects
-title: Title: Student Major Work Year 2: God of Steam<br>
+title: Student Major Work Year 2 - God of Steam<br>
 description: |
 ---
 **Platforms:** HTC Vive and Oculus Rift (PC) <br>

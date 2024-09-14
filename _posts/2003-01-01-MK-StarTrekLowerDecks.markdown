@@ -2,7 +2,7 @@
 layout: default
 img: StarTrekLowerDecks.jpg
 category: MK Games
-title: Star Trek: Lower Decks:<br>
+title: Star Trek Lower Decks:<br>
 description: |
 ---
 **Platforms:** iOS & Google Play (Android) <br>
