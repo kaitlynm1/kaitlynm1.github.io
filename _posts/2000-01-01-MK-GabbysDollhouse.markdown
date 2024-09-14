@@ -1,14 +1,14 @@
 ---
 layout: default
 img: GabbysDollhouse.png
-category: Projects
+category: MK Games
 title: Gabby's Dollhouse<br>
 description: |
 ---
 **Platforms:** iOS, Google Play (Android), Amazon & Amazon Kids+ <br>
 **Engine/Language:** Unity Engine / C# <br> 
-<a href="https://gabbysdollhouse.spinmaster.com/en_us">App store links <br>
 
+<a href="https://gabbysdollhouse.spinmaster.com/en_us">**App store links here**<br>
 **Game Description:** Mobile game based on Netflix show Gabby's Dollhouse and subsequent toys by SpinMaster. Creates virtual dollhouse with minigames and interactable elements matching the show and toys.  <br>
 
 **Role:** Lead programmer for last 2 years of project, took over from previous lead. <br>
