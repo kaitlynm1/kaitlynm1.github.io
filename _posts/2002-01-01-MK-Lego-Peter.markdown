@@ -15,4 +15,6 @@ description: |
 
 **Role:** Joined Lego team first to help release Lego Movie mode in accordance with the movie whilst leads were on business trip. Stayed on to help with development until Peter Rabbit Run came up.  <br>
 Joined Peter Rabbit run with senior programmer Simon from begginning to end, used Lego codebase knowledge to bring over endless runner framework and build new Peter features on top of this, releasing game with movie sequel launch. <br>
-**Contribution:** Integral role in creating systems for new features from inception to release (Red Carpet Challenges, Outfit Challenges, Scrapbook, new FTUE), Ads SDK Implementation, Debug and Importer tools to speed up implementation and testing time, Milestone management system for working ahead on releases. <br>
+**Contributions:** <br>
+- Imported over basics of Endless Runner framework from Lego Friends codebase to Peter Rabbit Run inception. <br>
+- Big learnings from pair programming with senior programmers on this project - learnt so much about clean code habits and building modular codebases. <br>
