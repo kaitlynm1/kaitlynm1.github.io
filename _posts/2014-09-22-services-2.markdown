@@ -12,5 +12,5 @@ Title: Barbie Fashion Closet
 <br><p><a href="https://play.google.com/store/apps/details?id=com.mattel.barbiesparkleblastkids&hl=en_AU">Google Play link</a>
 <br><p><a href="https://apps.apple.com/us/app/barbie-fashion-closet/id1246820069">iOS link</a>
 <br><p><a href="https://www.youtube.com/watch?v=v0Bw7X6YlIs&ab_channel=Barbie">Gameplay video</a>
-<br>Contribution: Co-lead programming beginning to end for 2 years of project life. Took on a legacy codebase from previous developer with no contact to them, optimised and restructured large parts of codebase. 
-<br>Helped create systems for new features from inception to release (Red Carpet Challenges, Outfit Challenges, Scrapbook, new FTUE), Ads SDK Implementation, Debug and Importer tools to speed up implementation and testing time, Milestone management system
+<br>Role: Co-lead programming beginning to end for 2 years of project life. Took on a legacy codebase from previous developer with no contact to them, optimised and restructured codebase where possible whilst actively developing new content.
+<br>Contribution: Integral role in creating systems for new features from inception to release (Red Carpet Challenges, Outfit Challenges, Scrapbook, new FTUE), Ads SDK Implementation, Debug and Importer tools to speed up implementation and testing time, Milestone management system.

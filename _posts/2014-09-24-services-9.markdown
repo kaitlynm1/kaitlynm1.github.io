@@ -2,7 +2,7 @@
 layout: default
 img: blob.png
 category: Projects
-title: Game Jams & other UE4/Unity projects:<br>
+title: Game Jams & other Student UE4/Unity projects:<br>
 description: |
 ---
 - Chesster - VR game in Unity/C# where the player takes on the abilities of different chess pieces to traverse a level. <br>
