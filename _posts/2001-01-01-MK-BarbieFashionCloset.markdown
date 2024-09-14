@@ -17,7 +17,7 @@ description: |
 Took on a legacy codebase from previous developer with no contact to them, optimised and restructured codebase where possible whilst actively developing new content. <br>
 **Contribution:** 
 - Integral role in creating systems for new features from inception to release (Red Carpet Challenges, Outfit Challenges, Scrapbook, new FTUE). <br>
-- Optimised our workflows by creating tools to automate and simplify implementing new content in the game, such as clothing for dolls. Supported and collaborated with non-programmers on the team with how to use and build onto these tools effectively. This enabled art to be independently implementing new clothes faster and find bugs with blendshapes earlier **before** they got to QA testing. <br>
+- Optimised our workflows by creating tools to simplify implementing and testing new content in the game, such as clothing for dolls. Supported and collaborated with non-programmers on the team with how to use and build onto these tools effectively. This enabled art to be independently implementing new clothes faster and find bugs with blendshapes earlier **before** they got to QA testing. <br>
 - Created Milestone management system (allowing us to work several releases ahead and safely test these changes early). <br>
-- Created library of our commonly used tween animations into plug-and-play components for UI implementation, allowing the team to add more polish without coder/animation support. <br>
+- Created library of our commonly used tween animations into plug-and-play components for UI implementation, allowing the team to add more polish without coder/animation support. Large amounts of UI animation polish in this game was my doing to give my UI implementation tasks that extra wow factor. <br>
 - Upkept and created large amounts of documentation for this project to help with onboarding of new team members smoother/quicker. <br>
