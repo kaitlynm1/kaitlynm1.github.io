@@ -1,0 +1,15 @@
+---
+layout: default
+img: prison.png
+category: Projects
+title: Other Student C++/C# work:<br>
+description: |
+---
+<p>The following projects I showcase below will be listed from my student work, you can access builds <a href="https://drive.google.com/drive/folders/1GxWe41jvipFrVWJTQcKBjXm4viQUkxlu?usp=sharing">here</a> </p>
+
+ - Prison escape Console Application - C++ Adventure game where the player has to escape a prison cell. <br>
+ - Math Library - Developed static C++ library, developing deeper understanding of Vector and Matrix maths. <br> 
+ - Paint Application - WPF C# paint application (draw, select/move, erase, clear, save/load). <br>
+ - Tile Map Editor - WPF C# application (Change tile sizes, input own images, save/load). <br>
+ - AI maze - C++ SDL application (AI spawns in 'open' tiles of an input map based on colour of the tile, AI dies after a certain time if not 'within range' of the player, player can choose 2 waypoints and it will show the shortest path through the maze). <br>
+
